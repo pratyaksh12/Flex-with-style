@@ -1,0 +1,26 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{
+    display:flex;
+    justify-content:space-evenly;
+background-color:turquoise;
+}
+.grid{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+background-color:turquoise;
+}
+.p,h2{text-align:center;
+    color:black
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;   
+background-color:turquoise;
+}
